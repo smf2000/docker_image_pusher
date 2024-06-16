@@ -1,2 +1,1 @@
-
-probezy/cpolar
+probezy/cpolar:latest
